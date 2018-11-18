@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1498054894 source:c:\users\maurizio\desktop\lasd\progetti\progetto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Librerie/Progetto2.h"
+
+1498054757 source:c:\users\maurizio\desktop\lasd\progetti\progetto2\librerie\funzionialbero.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"Progetto2.h"
+
+1498054640 c:\users\maurizio\desktop\lasd\progetti\progetto2\librerie\progetto2.h
+
+1498054963 source:c:\users\maurizio\desktop\lasd\progetti\progetto2\librerie\funzionialberot.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"Progetto2.h"
+
+1498054757 source:c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto2\librerie\funzionialbero.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"Progetto2.h"
+
+1498054640 c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto2\librerie\progetto2.h
+
+1498054963 source:c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto2\librerie\funzionialberot.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"Progetto2.h"
+
+1498054894 source:c:\users\maurizio\desktop\esami fatti\lasd\progetti\progetto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Librerie/Progetto2.h"
+
+1498054757 source:c:\users\maurizio\desktop\progetto2\librerie\funzionialbero.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"Progetto2.h"
+
+1498054640 c:\users\maurizio\desktop\progetto2\librerie\progetto2.h
+
+1498054963 source:c:\users\maurizio\desktop\progetto2\librerie\funzionialberot.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"Progetto2.h"
+
+1498054894 source:c:\users\maurizio\desktop\progetto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Librerie/Progetto2.h"
+
